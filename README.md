@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @rabin-tech
 - 👀 I’m interested in custom roms
 - 🌱 I’m currently studying Civil Engineering
-- 💞️ I’m looking to collaborate on ...
+<! - 💞️ I’m looking to collaborate on ... >
 - 📫 How to reach me ...[Telegram](http://t.me/professor36)
 
 ![Rabin's github stats](https://github-readme-stats.vercel.app/api?username=rabin-tech&show_icons=true&count_private=true&line_height=40)
