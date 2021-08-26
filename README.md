@@ -1,7 +1,7 @@
 <h1 align="center">Hi there 👋 I am Rabin</h1>
 
 
-- 👀 I’m interested in custom roms
+- 👀 I’m interested in custom roms and I am currently maintaining Hycon OS and Cherish OS for tulip
 - 🌱 I’m currently studying Civil Engineering
 
 ### 🤝🏻 Social
